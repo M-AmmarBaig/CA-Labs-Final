@@ -1,0 +1,22 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.sim/sim_1/behav/xsim/glbl.v,1776517714,verilog,,,,glbl,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sim_1/new/SingleCycle_tb.v,1776520412,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sim_1/new/datamem_test.v,,SingleCycle_tb,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sim_1/new/datamem_test.v,1776517714,verilog,,,,DataMemory_BUG;DataMemory_FIXED;tb_DataMemory_compare,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/2x1Mux.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALU.v,,Mux2x1,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALU.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALUControl.v,,ALU,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALUControl.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALU_1Bit.v,,ALUControl,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ALU_1Bit.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/BranchAdder.v,,ALU_1Bit,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/BranchAdder.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/DataMemory.v,,BranchAdder,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/DataMemory.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ImmGen.v,,DataMemory,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ImmGen.v,1776519105,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/MainControl.v,,ImmGen,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/MainControl.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/PcAdd4.v,,MainControl,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/PcAdd4.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ProgCounter.v,,PcAdd4,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/ProgCounter.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/RegisterFile.v,,ProgCounter,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/RegisterFile.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/instructionMemory.v,,RegisterFile,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/SingleCycle.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/switches.v,,SingleCycle,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/instructionMemory.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/SingleCycle.v,,instructionMemory,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/led.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sim_1/new/SingleCycle_tb.v,,leds,,,,,,,,
+D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/switches.v,1776517714,verilog,,D:/CA_Project/SingleCycle_CA/SingleCycle_CA.srcs/sources_1/new/led.v,,switches,,,,,,,,

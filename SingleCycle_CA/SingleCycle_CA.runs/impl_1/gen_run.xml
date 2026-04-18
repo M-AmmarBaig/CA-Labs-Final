@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a35tcpg236-1" LaunchTime="1776538639">
+  <File Type="BITSTR-BMM" Name="SingleCycle_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="SingleCycle_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="SingleCycle_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="SingleCycle_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="SingleCycle.tcl"/>
+  <File Type="OPT-TIMING" Name="SingleCycle_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="SingleCycle_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="SingleCycle_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="SingleCycle_reports.tcl"/>
+  <File Type="OPT-DRC" Name="SingleCycle_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="SingleCycle.hwdef"/>
+  <File Type="PWROPT-DCP" Name="SingleCycle_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="SingleCycle_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="SingleCycle_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="SingleCycle_placed.dcp"/>
+  <File Type="PLACE-IO" Name="SingleCycle_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="SingleCycle_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="SingleCycle_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="SingleCycle_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="SingleCycle_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="SingleCycle_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="SingleCycle_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="SingleCycle_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="SingleCycle_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="SingleCycle.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="SingleCycle_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="SingleCycle_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="SingleCycle_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="SingleCycle.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="SingleCycle_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="SingleCycle_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="SingleCycle_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="SingleCycle_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="SingleCycle_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="SingleCycle_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="SingleCycle_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="SingleCycle.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="SingleCycle_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="SingleCycle_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="SingleCycle_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="SingleCycle_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="SingleCycle_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="SingleCycle_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="SingleCycle_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="SingleCycle_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="SingleCycle_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="SingleCycle_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="SingleCycle_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="SingleCycle_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="SingleCycle_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="SingleCycle_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="SingleCycle_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="SingleCycle_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="SingleCycle_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="SingleCycle_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="SingleCycle_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="SingleCycle_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="SingleCycle_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="SingleCycle.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="SingleCycle_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="SingleCycle.rbt"/>
+  <File Type="BITSTR-NKY" Name="SingleCycle.nky"/>
+  <File Type="PDI-FILE" Name="SingleCycle.pdi"/>
+  <File Type="RCFI_FILE" Name="SingleCycle.rcfi"/>
+  <File Type="CFI_FILE" Name="SingleCycle.cfi"/>
+  <File Type="RNPI_FILE" Name="SingleCycle.rnpi"/>
+  <File Type="NPI_FILE" Name="SingleCycle.npi"/>
+  <File Type="RBD_FILE" Name="SingleCycle.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="SingleCycle.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="SingleCycle.sysdef"/>
+  <File Type="BG-BGN" Name="SingleCycle.bgn"/>
+  <File Type="BG-DRC" Name="SingleCycle.drc"/>
+  <File Type="RDI-RDI" Name="SingleCycle.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/2x1Mux.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ALU.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ALUControl.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ALU_1Bit.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/BranchAdder.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/DataMemory.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ImmGen.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/MainControl.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/PcAdd4.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/ProgCounter.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/RegisterFile.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/instructionMemory.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/SingleCycle.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/switches.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/led.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/7seg.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/lab10.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="SingleCycle"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/constraints.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2020"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
